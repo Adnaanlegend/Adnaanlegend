@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnaanlegend&label=Profile%20views&color=0e75b6&style=flat" alt="adnaanlegend" /> </p>
 
-- 🔭 I’m currently working on **Crypto DashBoard**
+- 🔭 I’m currently working on a **Crypto DashBoard**
 
-- 👯 I’m looking to collaborate on **Social Networking Site**
+- 👯 I’m looking to collaborate on a **Social Networking Site**
 
-- 💬 Ask me about **ReactJs, Javascript**
+- 💬 Ask me about **ReactJs, Javascript,Redux,React-router-dom,,NextJs**
 
 - 📫 How to reach me **+91 9546120321 / adnaan137@gmail.com**
 
