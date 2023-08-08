@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on a **Social Networking Site**
 
-- 💬 Ask me about **ReactJs, Javascript,Redux,React-router-dom,,NextJs**
+- 💬 Ask me about **ReactJs, Javascript,Redux,React-router-dom,NextJs**
 
 - 📫 How to reach me **+91 9546120321 / adnaan137@gmail.com**
 
