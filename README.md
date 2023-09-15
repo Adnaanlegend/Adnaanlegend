@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnaanlegend&label=Profile%20views&color=0e75b6&style=flat" alt="adnaanlegend" /> </p>
 
-- 🔭 I’m currently working on a **SAAS Product**
+- 🔭 I’m currently working on a **SAAS Product** - UPDATE: - It is done. Check it out- https://nemesisai.vercel.app
 
 - 👯 I’m looking to collaborate on a **Social Networking Site**
 
-- 💬 Ask me about **ReactJs, Javascript,Redux,React-router-dom,NextJs**
+- 💬 Ask me about **ReactJs, Javascript,Redux,NextJs,Prisma,Stripe**
 
 - 📫 How to reach me **+91 9546120321 / adnaan137@gmail.com**
 
